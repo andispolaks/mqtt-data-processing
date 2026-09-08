@@ -1,0 +1,6 @@
+pika
+psycopg[binary]
+python-dotenv
+pydantic
+paho-mqtt
+pytest
